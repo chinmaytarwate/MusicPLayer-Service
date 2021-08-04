@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MusicCentral</string>
+    <string-array name="titles">
+        <item>Ukulele</item>
+        <item>Creative Minds</item>
+        <item>Memories</item>
+        <item>A New Beginning</item>
+        <item>Punky</item>
+    </string-array>
+    <string-array name="artists">
+        <item>Benjamin Tissot</item>
+        <item>Benjamin Tissot</item>
+        <item>Benjamin Tissot</item>
+        <item>Benjamin Tissot</item>
+        <item>Benjamin Tissot</item>
+    </string-array>
+    <string-array name="urls">
+        <item>https://www.bensound.com/bensound-music/bensound-ukulele.mp3</item>
+        <item>https://www.bensound.com/bensound-music/bensound-creativeminds.mp3</item>
+        <item>https://www.bensound.com/bensound-music/bensound-memories.mp3</item>
+        <item>https://www.bensound.com/bensound-music/bensound-anewbeginning.mp3</item>
+        <item>https://www.bensound.com/bensound-music/bensound-punky.mp3</item>
+    </string-array>
+</resources>

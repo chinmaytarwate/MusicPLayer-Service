@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicClient</string>
+    <string name="your_id_string">Your ID</string>
+    <string name="bind">Bind Service</string>
+    <string name="unbind">Unbind Service</string>
+    <string name="listall">Details of all songs</string>
+    <string name="details">Current Song Details</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.chinmayt.cs478.musiccentral">
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <application
+        android:allowBackup="true" >
+
+        <service
+            android:name=".MusicCentralMain"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="edu.chinmayt.cs478.musicCommon.MusicService" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>
